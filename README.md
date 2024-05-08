@@ -19,7 +19,7 @@ and i was so boring and i have that idea.
 
 # How to use?
 Look at opcode table in "opcodetable.md" and program the program.
-if "opcodetable.md" not available, look at code cpu.js line 35 and you will see that opcodes
+if "opcodetable.md" not available, look at code cpu.js line 68 or look the code and you will see that opcodes
 like:
 
 ```javascript
