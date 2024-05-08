@@ -1,0 +1,21 @@
+TODO:
+- Interruptions (50% done)
+
+READY: 
+- Cache (100% complete, yeah)
+- Memory Management (50% complete)
+- Timers (100% complete, wasn't in my way, but, that's done)
+- Handle With Instructions (100% complete, btw)
+- "Auto" clean memory
+
+NEXT UPDATE:                                  USED BY
+- Update to graphics mode
+- HTML CANVAS 3D                              (graphics, colors, messages)
+- E/S Operations                              (keyboard, controlling)
+- GPU EMULATOR (WEBGL 2.0)                    (graphics, colors, messages)
+- ISO Images                                  (cpu, games)
+- Instruction Pipelines (maybe not added)     (cpu, emulating)
+- GAMES                                       (games, playing)
+
+NOTE:
+- i am screwed. bruh
